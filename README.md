@@ -3,6 +3,7 @@
 - Phone: +33 6 24 99 42 50 / +228 99 48 07 48 or +228 90 23 31 56
 - LinkedIn: https://www.linkedin.com/in/constant-kodja-392b759b/
 - MBA Thesis (Memoire): http://www.memoireonline.com/02/12/5429/Impact-de-la-composition-du-conseil-dadministration-sur-le-risque-de-credit-bancaire-cas-des-ba.html
+- DataScience Publication: https://github.com/pkodja/StrokePredict
 - ----------------------------------------------
 ## Business Management 
 - MBA Business Management and Finance
