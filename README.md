@@ -16,7 +16,8 @@
 - -----------------------------------------
 ## DataScience and Artificial Intelligence Engineer
 - Data Scientist, AI Algorithms Development: Data Analysis, Google Analytics, Power BI, Generative AI, Machine Learning, Deep Learning
-- NoSQL Databases: Graph Database (Neo4j), Column Database (Hbase), Map or Json Database (MongoDB)
+- NoSQL Databases: Graph Database (Neo4j), Column Database (Hbase), Map or Json Database (MongoDB), Apache Haddop System (HDFS, Yarn, Kafka, Hive)
+- Programming Languages: Cypher (Graph Database querying app), Apache Spark, Python, R Statistic App, SAS, PHP, Java, JavaScript, Angular, Node.js, Laravel, C++, React/React Native, VBA
 - Certification: Neo4j Certified Professional: https://graphacademy.neo4j.com/c/b19bdd41-3c2b-42c4-9717-9726fe3d45fa/ and https://graphacademy.neo4j.com/c/b19bdd41-3c2b-42c4-9717-9726fe3d45fa/
 - Relational Databases: MSSQL, Mysql, Oracle DB
 - Data and AI projects management
@@ -24,7 +25,7 @@
 ## Cloud Computing:
 - Amazon Web Service (AWS), Microsoft Azure, Google Cloud Platform (GCP)
 - ----------------------------------------
-## Technologies Engineer
+## Technology Engineer
 - Technology center Management: People, Finance, Marketing, infrastructure and systems management
 - Datacenter Management: Infrastructure and systems management
 - Network/Telecom/GSM and systems Engineer: Designing and implementation
@@ -51,6 +52,9 @@
 - Tennis, Swimming, Table Tennis, football, jogging And Walking
 ----------------------------------------
 ## Have A Driving Licence
+---------------------------------------
+## Languages: 
+- English, French and African Languages
 
 
 <!---
